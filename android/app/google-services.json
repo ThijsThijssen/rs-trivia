@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695375482283",
+    "firebase_url": "https://osrs-trivia.firebaseio.com",
+    "project_id": "osrs-trivia",
+    "storage_bucket": "osrs-trivia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695375482283:android:b221edc327aa144c3096ee",
+        "android_client_info": {
+          "package_name": "nl.thijsthijssen.rstrivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695375482283-nrgpsbbeifp5ei9lvogjdnnj613r2g90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkkLMcqGmw-09eTgGrT-5s-qyW_7gFsfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695375482283-nrgpsbbeifp5ei9lvogjdnnj613r2g90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

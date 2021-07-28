@@ -1,0 +1,1937 @@
+{
+  "winStreaks": [{
+    "tier": "beginner",
+    "winStreak": 0
+  },
+    {
+      "tier": "easy",
+      "winStreak": 0
+    },
+    {
+      "tier": "medium",
+      "winStreak": 0
+    },
+    {
+      "tier": "hard",
+      "winStreak": 0
+    },
+    {
+      "tier": "elite",
+      "winStreak": 0
+    },
+    {
+      "tier": "master",
+      "winStreak": 0
+    }
+  ],
+  "triviaQuestions": [{
+    "tier": "beginner",
+    "question": "What defence level is needed to wear steel armour?",
+    "answers": ["1", "5", "10"],
+    "correctAnswer": "5"
+  },
+    {
+      "tier": "beginner",
+      "question": "What is the minimal number of rewards from a Beginner Clue Scroll?",
+      "answers": ["1", "2", "3"],
+      "correctAnswer": "1"
+    },
+    {
+      "tier": "beginner",
+      "question": "What is the maximum number of rewards from a Beginner Clue Scroll?",
+      "answers": ["1", "2", "3"],
+      "correctAnswer": "3"
+    },
+    {
+      "tier": "easy",
+      "question": "What is the minimal number of rewards from an Easy Clue Scroll?",
+      "answers": ["1", "2", "3"],
+      "correctAnswer": "2"
+    },
+    {
+      "tier": "easy",
+      "question": "What is the maximum number of rewards from an Easy Clue Scroll?",
+      "answers": ["1", "2", "4"],
+      "correctAnswer": "4"
+    },
+    {
+      "tier": "easy",
+      "question": "What defence level is needed to wear black armour?",
+      "answers": ["1", "5", "10"],
+      "correctAnswer": "10"
+    },
+    {
+      "tier": "medium",
+      "question": "What defence level is needed to wear adamant armour?",
+      "answers": ["20", "30", "35", "40"],
+      "correctAnswer": "30"
+    },
+    {
+      "tier": "medium",
+      "question": "What is the maximum number of rewards from a Medium Clue Scroll?",
+      "answers": ["5", "4", "3", "2"],
+      "correctAnswer": "5"
+    },
+    {
+      "tier": "hard",
+      "question": "What defence level is needed to wear rune armour?",
+      "answers": ["20", "30", "40", "50"],
+      "correctAnswer": "40"
+    },
+    {
+      "tier": "hard",
+      "question": "What is the maximum number of rewards from a Hard Clue Scroll?",
+      "answers": ["6", "5", "4", "3"],
+      "correctAnswer": "6"
+    }
+  ],
+  "triviaLevels": [{
+    "tier": "beginner",
+    "progress": 0.0,
+    "unlocked": true
+  },
+    {
+      "tier": "easy",
+      "progress": 0.0,
+      "unlocked": false
+    },
+    {
+      "tier": "medium",
+      "progress": 0.0,
+      "unlocked": false
+    },
+    {
+      "tier": "hard",
+      "progress": 0.0,
+      "unlocked": false
+    },
+    {
+      "tier": "elite",
+      "progress": 0.0,
+      "unlocked": false
+    },
+    {
+      "tier": "master",
+      "progress": 0.0,
+      "unlocked": false
+    }
+  ],
+  "rewardCasketAmounts": [{
+    "tier": "beginner",
+    "amount": 1000,
+    "unlocked": true
+  },
+    {
+      "tier": "easy",
+      "amount": 1000,
+      "unlocked": false
+    },
+    {
+      "tier": "medium",
+      "amount": 1000,
+      "unlocked": false
+    },
+    {
+      "tier": "hard",
+      "amount": 1000,
+      "unlocked": false
+    },
+    {
+      "tier": "elite",
+      "amount": 1000,
+      "unlocked": false
+    },
+    {
+      "tier": "master",
+      "amount": 1000,
+      "unlocked": false
+    }
+  ],
+  "collectionLog": [{
+    "tier": "beginner",
+    "casketsOpened": 0,
+    "uniques": [{
+      "name": "Mole slippers",
+      "quantity": 0
+    },
+      {
+        "name": "Frog slippers",
+        "quantity": 0
+      },
+      {
+        "name": "Bear feet",
+        "quantity": 0
+      },
+      {
+        "name": "Demon feet",
+        "quantity": 0
+      },
+      {
+        "name": "Jester cape",
+        "quantity": 0
+      },
+      {
+        "name": "Shoulder parrot",
+        "quantity": 0
+      },
+      {
+        "name": "Monk's robe top (t)",
+        "quantity": 0
+      },
+      {
+        "name": "Monk's robe (t)",
+        "quantity": 0
+      },
+      {
+        "name": "Amulet of defence (t)",
+        "quantity": 0
+      },
+      {
+        "name": "Sandwich lady hat",
+        "quantity": 0
+      },
+      {
+        "name": "Sandwich lady top",
+        "quantity": 0
+      },
+      {
+        "name": "Sandwich lady bottom",
+        "quantity": 0
+      },
+      {
+        "name": "Rune scimitar ornament kit (guthix)",
+        "quantity": 0
+      },
+      {
+        "name": "Rune scimitar ornament kit (saradomin)",
+        "quantity": 0
+      },
+      {
+        "name": "Rune scimitar ornament kit (zamorak)",
+        "quantity": 0
+      },
+      {
+        "name": "Black pickaxe",
+        "quantity": 0
+      }
+    ]
+  },
+    {
+      "tier": "easy",
+      "casketsOpened": 0,
+      "uniques": [{
+        "name": "Amulet of magic (t)",
+        "quantity": 0
+      }, {
+        "name": "Wooden shield (g)",
+        "quantity": 0
+      }, {
+        "name": "Black full helm (t)",
+        "quantity": 0
+      }, {
+        "name": "Black platebody (t)",
+        "quantity": 0
+      }, {
+        "name": "Black platelegs (t)",
+        "quantity": 0
+      }, {
+        "name": "Black plateskirt (t)",
+        "quantity": 0
+      }, {
+        "name": "Black kiteshield (t)",
+        "quantity": 0
+      }, {
+        "name": "Black full helm (g)",
+        "quantity": 0
+      }, {
+        "name": "Black platebody (g)",
+        "quantity": 0
+      }, {
+        "name": "Black platelegs (g)",
+        "quantity": 0
+      }, {
+        "name": "Black plateskirt (g)",
+        "quantity": 0
+      }, {
+        "name": "Black kiteshield (g)",
+        "quantity": 0
+      }, {
+        "name": "Black shield (h1)",
+        "quantity": 0
+      }, {
+        "name": "Black shield (h2)",
+        "quantity": 0
+      }, {
+        "name": "Black shield (h3)",
+        "quantity": 0
+      }, {
+        "name": "Black shield (h4)",
+        "quantity": 0
+      }, {
+        "name": "Black shield (h5)",
+        "quantity": 0
+      }, {
+        "name": "Black helm (h1)",
+        "quantity": 0
+      }, {
+        "name": "Black helm (h2)",
+        "quantity": 0
+      }, {
+        "name": "Black helm (h3)",
+        "quantity": 0
+      }, {
+        "name": "Black helm (h4)",
+        "quantity": 0
+      }, {
+        "name": "Black helm (h5)",
+        "quantity": 0
+      }, {
+        "name": "Black platebody (h1)",
+        "quantity": 0
+      }, {
+        "name": "Black platebody (h2)",
+        "quantity": 0
+      }, {
+        "name": "Black platebody (h3)",
+        "quantity": 0
+      }, {
+        "name": "Black platebody (h4)",
+        "quantity": 0
+      }, {
+        "name": "Black platebody (h5)",
+        "quantity": 0
+      }, {
+        "name": "Steel full helm (t)",
+        "quantity": 0
+      }, {
+        "name": "Steel platebody (t)",
+        "quantity": 0
+      }, {
+        "name": "Steel platelegs (t)",
+        "quantity": 0
+      }, {
+        "name": "Steel plateskirt (t)",
+        "quantity": 0
+      }, {
+        "name": "Steel kiteshield (t)",
+        "quantity": 0
+      }, {
+        "name": "Steel full helm (g)",
+        "quantity": 0
+      }, {
+        "name": "Steel platebody (g)",
+        "quantity": 0
+      }, {
+        "name": "Steel platelegs (g)",
+        "quantity": 0
+      }, {
+        "name": "Steel plateskirt (g)",
+        "quantity": 0
+      }, {
+        "name": "Steel kiteshield (g)",
+        "quantity": 0
+      }, {
+        "name": "Iron full helm (t)",
+        "quantity": 0
+      }, {
+        "name": "Iron platebody (t)",
+        "quantity": 0
+      }, {
+        "name": "Iron platelegs (t)",
+        "quantity": 0
+      }, {
+        "name": "Iron plateskirt (t)",
+        "quantity": 0
+      }, {
+        "name": "Iron kiteshield (t)",
+        "quantity": 0
+      }, {
+        "name": "Iron full helm (g)",
+        "quantity": 0
+      }, {
+        "name": "Iron platebody (g)",
+        "quantity": 0
+      }, {
+        "name": "Iron platelegs (g)",
+        "quantity": 0
+      }, {
+        "name": "Iron plateskirt (g)",
+        "quantity": 0
+      }, {
+        "name": "Iron kiteshield (g)",
+        "quantity": 0
+      }, {
+        "name": "Bronze full helm (t)",
+        "quantity": 0
+      }, {
+        "name": "Bronze platebody (t)",
+        "quantity": 0
+      }, {
+        "name": "Bronze platelegs (t)",
+        "quantity": 0
+      }, {
+        "name": "Bronze plateskirt (t)",
+        "quantity": 0
+      }, {
+        "name": "Bronze kiteshield (t)",
+        "quantity": 0
+      }, {
+        "name": "Bronze full helm (g)",
+        "quantity": 0
+      }, {
+        "name": "Bronze platebody (g)",
+        "quantity": 0
+      }, {
+        "name": "Bronze platelegs (g)",
+        "quantity": 0
+      }, {
+        "name": "Bronze plateskirt (g)",
+        "quantity": 0
+      }, {
+        "name": "Bronze kiteshield (g)",
+        "quantity": 0
+      }, {
+        "name": "Studded body (g)",
+        "quantity": 0
+      }, {
+        "name": "Studded chaps (g)",
+        "quantity": 0
+      }, {
+        "name": "Studded body (t)",
+        "quantity": 0
+      }, {
+        "name": "Studded chaps (t)",
+        "quantity": 0
+      }, {
+        "name": "Leather body (g)",
+        "quantity": 0
+      }, {
+        "name": "Leather chaps (g)",
+        "quantity": 0
+      }, {
+        "name": "Blue wizard hat (g)",
+        "quantity": 0
+      }, {
+        "name": "Blue wizard robe (g)",
+        "quantity": 0
+      }, {
+        "name": "Blue skirt (g)",
+        "quantity": 0
+      }, {
+        "name": "Blue wizard hat (t)",
+        "quantity": 0
+      }, {
+        "name": "Blue wizard robe (t)",
+        "quantity": 0
+      }, {
+        "name": "Blue skirt (t)",
+        "quantity": 0
+      }, {
+        "name": "Black wizard hat (g)",
+        "quantity": 0
+      }, {
+        "name": "Black wizard robe (g)",
+        "quantity": 0
+      }, {
+        "name": "Black skirt (g)",
+        "quantity": 0
+      }, {
+        "name": "Black wizard hat (t)",
+        "quantity": 0
+      }, {
+        "name": "Black wizard robe (t)",
+        "quantity": 0
+      }, {
+        "name": "Black skirt (t)",
+        "quantity": 0
+      }, {
+        "name": "Saradomin robe top",
+        "quantity": 0
+      }, {
+        "name": "Saradomin robe legs",
+        "quantity": 0
+      }, {
+        "name": "Guthix robe top",
+        "quantity": 0
+      }, {
+        "name": "Guthix robe legs",
+        "quantity": 0
+      }, {
+        "name": "Zamorak robe top",
+        "quantity": 0
+      }, {
+        "name": "Zamorak robe legs",
+        "quantity": 0
+      }, {
+        "name": "Ancient robe top",
+        "quantity": 0
+      }, {
+        "name": "Ancient robe legs",
+        "quantity": 0
+      }, {
+        "name": "Armadyl robe top",
+        "quantity": 0
+      }, {
+        "name": "Armadyl robe legs",
+        "quantity": 0
+      }, {
+        "name": "Bandos robe top",
+        "quantity": 0
+      }, {
+        "name": "Bandos robe legs",
+        "quantity": 0
+      }, {
+        "name": "Bob's red shirt",
+        "quantity": 0
+      }, {
+        "name": "Bob's green shirt",
+        "quantity": 0
+      }, {
+        "name": "Bob's blue shirt",
+        "quantity": 0
+      }, {
+        "name": "Bob's black shirt",
+        "quantity": 0
+      }, {
+        "name": "Bob's purple shirt",
+        "quantity": 0
+      }, {
+        "name": "Highwayman mask",
+        "quantity": 0
+      }, {
+        "name": "Blue beret",
+        "quantity": 0
+      }, {
+        "name": "Black beret",
+        "quantity": 0
+      }, {
+        "name": "Red beret",
+        "quantity": 0
+      }, {
+        "name": "White beret",
+        "quantity": 0
+      }, {
+        "name": "A powdered wig",
+        "quantity": 0
+      }, {
+        "name": "Beanie",
+        "quantity": 0
+      }, {
+        "name": "Imp mask",
+        "quantity": 0
+      }, {
+        "name": "Goblin mask",
+        "quantity": 0
+      }, {
+        "name": "Sleeping cap",
+        "quantity": 0
+      }, {
+        "name": "Flared trousers",
+        "quantity": 0
+      }, {
+        "name": "Pantaloons",
+        "quantity": 0
+      }, {
+        "name": "Black cane",
+        "quantity": 0
+      }, {
+        "name": "Staff of bob the cat",
+        "quantity": 0
+      }, {
+        "name": "Amulet of power (t)",
+        "quantity": 0
+      }, {
+        "name": "Ham joint",
+        "quantity": 0
+      }, {
+        "name": "Rain bow",
+        "quantity": 0
+      }, {
+        "name": "Golden chef's hat",
+        "quantity": 0
+      }, {
+        "name": "Golden apron",
+        "quantity": 0
+      }, {
+        "name": "Red elegant shirt",
+        "quantity": 0
+      }, {
+        "name": "Red elegant blouse",
+        "quantity": 0
+      }, {
+        "name": "Red elegant legs",
+        "quantity": 0
+      }, {
+        "name": "Red elegant skirt",
+        "quantity": 0
+      }, {
+        "name": "Green elegant shirt",
+        "quantity": 0
+      }, {
+        "name": "Green elegant blouse",
+        "quantity": 0
+      }, {
+        "name": "Green elegant legs",
+        "quantity": 0
+      }, {
+        "name": "Green elegant skirt",
+        "quantity": 0
+      }, {
+        "name": "Blue elegant shirt",
+        "quantity": 0
+      }, {
+        "name": "Blue elegant blouse",
+        "quantity": 0
+      }, {
+        "name": "Blue elegant legs",
+        "quantity": 0
+      }, {
+        "name": "Blue elegant skirt",
+        "quantity": 0
+      }, {
+        "name": "Team cape zero",
+        "quantity": 0
+      }, {
+        "name": "Team cape i",
+        "quantity": 0
+      }, {
+        "name": "Team cape x",
+        "quantity": 0
+      }, {
+        "name": "Cape of skulls",
+        "quantity": 0
+      }, {
+        "name": "Monk's robe top (g)",
+        "quantity": 0
+      }, {
+        "name": "Monk's robe (g)",
+        "quantity": 0
+      }, {
+        "name": "Black pickaxe",
+        "quantity": 0
+      }, {
+        "name": "Willow comp bow",
+        "quantity": 0
+      }]
+    },
+    {
+      "tier": "medium",
+      "casketsOpened": 0,
+      "uniques": [{
+        "name": "Ranger boots",
+        "quantity": 0
+      },
+        {
+          "name": "Wizard boots",
+          "quantity": 0
+        },
+        {
+          "name": "Holy sandals",
+          "quantity": 0
+        },
+        {
+          "name": "Spiked manacles",
+          "quantity": 0
+        },
+        {
+          "name": "Climbing boots (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant full helm (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant platebody (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant platelegs (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant plateskirt (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant kiteshield (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant full helm (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant platebody (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant platelegs (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant plateskirt (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant kiteshield (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant shield (h1)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant shield (h2)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant shield (h3)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant shield (h4)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant shield (h5)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant helm (h1)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant helm (h2)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant helm (h3)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant helm (h4)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant helm (h5)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant platebody (h1)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant platebody (h2)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant platebody (h3)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant platebody (h4)",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant platebody (h5)",
+          "quantity": 0
+        },
+        {
+          "name": "Mithril full helm (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Mithril platebody (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Mithril platelegs (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Mithril plateskirt (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Mithril kiteshield (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Mithril full helm (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Mithril platebody (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Mithril platelegs (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Mithril plateskirt (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Mithril kiteshield (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Green d'hide body (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Green d'hide chaps (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Green d'hide body (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Green d'hide chaps (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin mitre",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin cloak",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix mitre",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix cloak",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak mitre",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak cloak",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient mitre",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient cloak",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient stole",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient crozier",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl mitre",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl cloak",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl stole",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl crozier",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos mitre",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos cloak",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos stole",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos crozier",
+          "quantity": 0
+        },
+        {
+          "name": "Red boater",
+          "quantity": 0
+        },
+        {
+          "name": "Green boater",
+          "quantity": 0
+        },
+        {
+          "name": "Orange boater",
+          "quantity": 0
+        },
+        {
+          "name": "Black boater",
+          "quantity": 0
+        },
+        {
+          "name": "Blue boater",
+          "quantity": 0
+        },
+        {
+          "name": "Pink boater",
+          "quantity": 0
+        },
+        {
+          "name": "Purple boater",
+          "quantity": 0
+        },
+        {
+          "name": "White boater",
+          "quantity": 0
+        },
+        {
+          "name": "Red headband",
+          "quantity": 0
+        },
+        {
+          "name": "Black headband",
+          "quantity": 0
+        },
+        {
+          "name": "Brown headband",
+          "quantity": 0
+        },
+        {
+          "name": "White headband",
+          "quantity": 0
+        },
+        {
+          "name": "Blue headband",
+          "quantity": 0
+        },
+        {
+          "name": "Gold headband",
+          "quantity": 0
+        },
+        {
+          "name": "Pink headband",
+          "quantity": 0
+        },
+        {
+          "name": "Green headband",
+          "quantity": 0
+        },
+        {
+          "name": "Adamant cane",
+          "quantity": 0
+        },
+        {
+          "name": "Cat mask",
+          "quantity": 0
+        },
+        {
+          "name": "Penguin mask",
+          "quantity": 0
+        },
+        {
+          "name": "Leprechaun hat",
+          "quantity": 0
+        },
+        {
+          "name": "Crier hat",
+          "quantity": 0
+        },
+        {
+          "name": "Crier coat",
+          "quantity": 0
+        },
+        {
+          "name": "Crier bell",
+          "quantity": 0
+        },
+        {
+          "name": "Arceuus banner",
+          "quantity": 0
+        },
+        {
+          "name": "Piscarilius banner",
+          "quantity": 0
+        },
+        {
+          "name": "Hosidius banner",
+          "quantity": 0
+        },
+        {
+          "name": "Shayzien banner",
+          "quantity": 0
+        },
+        {
+          "name": "Lovakengj banner",
+          "quantity": 0
+        },
+        {
+          "name": "Cabbage round shield",
+          "quantity": 0
+        },
+        {
+          "name": "Wolf mask",
+          "quantity": 0
+        },
+        {
+          "name": "Wolf cloak",
+          "quantity": 0
+        },
+        {
+          "name": "Black leprechaun hat",
+          "quantity": 0
+        },
+        {
+          "name": "Black unicorn mask",
+          "quantity": 0
+        },
+        {
+          "name": "White unicorn mask",
+          "quantity": 0
+        },
+        {
+          "name": "Purple elegant shirt",
+          "quantity": 0
+        },
+        {
+          "name": "Purple elegant blouse",
+          "quantity": 0
+        },
+        {
+          "name": "Purple elegant legs",
+          "quantity": 0
+        },
+        {
+          "name": "Purple elegant skirt",
+          "quantity": 0
+        },
+        {
+          "name": "Black elegant shirt",
+          "quantity": 0
+        },
+        {
+          "name": "White elegant blouse",
+          "quantity": 0
+        },
+        {
+          "name": "Black elegant legs",
+          "quantity": 0
+        },
+        {
+          "name": "White elegant skirt",
+          "quantity": 0
+        },
+        {
+          "name": "Pink elegant shirt",
+          "quantity": 0
+        },
+        {
+          "name": "Pink elegant blouse",
+          "quantity": 0
+        },
+        {
+          "name": "Pink elegant legs",
+          "quantity": 0
+        },
+        {
+          "name": "Pink elegant skirt",
+          "quantity": 0
+        },
+        {
+          "name": "Gold elegant shirt",
+          "quantity": 0
+        },
+        {
+          "name": "Gold elegant blouse",
+          "quantity": 0
+        },
+        {
+          "name": "Gold elegant legs",
+          "quantity": 0
+        },
+        {
+          "name": "Gold elegant skirt",
+          "quantity": 0
+        },
+        {
+          "name": "Gnomish firelighter",
+          "quantity": 0
+        },
+        {
+          "name": "Strength amulet (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Yew comp bow",
+          "quantity": 0
+        }
+      ]
+    }, {
+      "tier": "hard",
+      "casketsOpened": 0,
+      "uniques": [{
+        "name": "3rd age full helmet",
+        "quantity": 0
+      },
+        {
+          "name": "3rd age platebody",
+          "quantity": 0
+        },
+        {
+          "name": "3rd age platelegs",
+          "quantity": 0
+        },
+        {
+          "name": "3rd age plateskirt",
+          "quantity": 0
+        },
+        {
+          "name": "3rd age kiteshield",
+          "quantity": 0
+        },
+        {
+          "name": "3rd age range coif",
+          "quantity": 0
+        },
+        {
+          "name": "3rd age range top",
+          "quantity": 0
+        },
+        {
+          "name": "3rd age range legs",
+          "quantity": 0
+        },
+        {
+          "name": "3rd age vambraces",
+          "quantity": 0
+        },
+        {
+          "name": "3rd age mage hat",
+          "quantity": 0
+        },
+        {
+          "name": "3rd age robe top",
+          "quantity": 0
+        },
+        {
+          "name": "3rd age robe",
+          "quantity": 0
+        },
+        {
+          "name": "3rd age amulet",
+          "quantity": 0
+        },
+        {
+          "name": "Gilded full helm",
+          "quantity": 0
+        },
+        {
+          "name": "Gilded platebody",
+          "quantity": 0
+        },
+        {
+          "name": "Gilded platelegs",
+          "quantity": 0
+        },
+        {
+          "name": "Gilded plateskirt",
+          "quantity": 0
+        },
+        {
+          "name": "Gilded kiteshield",
+          "quantity": 0
+        },
+        {
+          "name": "Gilded med helm",
+          "quantity": 0
+        },
+        {
+          "name": "Gilded chainbody",
+          "quantity": 0
+        },
+        {
+          "name": "Gilded sq shield",
+          "quantity": 0
+        },
+        {
+          "name": "Gilded 2h sword",
+          "quantity": 0
+        },
+        {
+          "name": "Gilded spear",
+          "quantity": 0
+        },
+        {
+          "name": "Gilded hasta",
+          "quantity": 0
+        },
+        {
+          "name": "Robin hood hat",
+          "quantity": 0
+        },
+        {
+          "name": "Enchanted hat",
+          "quantity": 0
+        },
+        {
+          "name": "Enchanted top",
+          "quantity": 0
+        },
+        {
+          "name": "Enchanted robe",
+          "quantity": 0
+        },
+        {
+          "name": "Rune full helm (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune platebody (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune platelegs (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune plateskirt (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune kiteshield (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune full helm (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune platebody (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune platelegs (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune plateskirt (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune kiteshield (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune helm (h1)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune helm (h2)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune helm (h3)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune helm (h4)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune helm (h5)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune platebody (h1)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune platebody (h2)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune platebody (h3)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune platebody (h4)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune platebody (h5)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune shield (h1)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune shield (h2)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune shield (h3)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune shield (h4)",
+          "quantity": 0
+        },
+        {
+          "name": "Rune shield (h5)",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak full helm",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak platebody",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak platelegs",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak plateskirt",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak kiteshield",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix full helm",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix platebody",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix platelegs",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix plateskirt",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix kiteshield",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin full helm",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin platebody",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin platelegs",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin plateskirt",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin kiteshield",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient full helm",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient platebody",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient platelegs",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient plateskirt",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient kiteshield",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl full helm",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl platebody",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl platelegs",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl plateskirt",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl kiteshield",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos full helm",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos platebody",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos platelegs",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos plateskirt",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos kiteshield",
+          "quantity": 0
+        },
+        {
+          "name": "Red d'hide body (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Red d'hide chaps (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Red d'hide body (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Red d'hide chaps (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Blue d'hide body (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Blue d'hide chaps (g)",
+          "quantity": 0
+        },
+        {
+          "name": "Blue d'hide body (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Blue d'hide chaps (t)",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin coif",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin d'hide body",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin chaps",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin bracers",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin d'hide boots",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin d'hide shield",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix coif",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix d'hide body",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix chaps",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix bracers",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix d'hide boots",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix d'hide shield",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak coif",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak d'hide body",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak chaps",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak bracers",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak d'hide boots",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak d'hide shield",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos coif",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos d'hide body",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos chaps",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos bracers",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos d'hide boots",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos d'hide shield",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl coif",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl d'hide body",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl chaps",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl bracers",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl d'hide boots",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl d'hide shield",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient coif",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient d'hide body",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient chaps",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient bracers",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient d'hide boots",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient d'hide shield",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin stole",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin crozier",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix stole",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix crozier",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak stole",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak crozier",
+          "quantity": 0
+        },
+        {
+          "name": "Zombie head",
+          "quantity": 0
+        },
+        {
+          "name": "Cyclops head",
+          "quantity": 0
+        },
+        {
+          "name": "Pirate's hat",
+          "quantity": 0
+        },
+        {
+          "name": "Red cavalier",
+          "quantity": 0
+        },
+        {
+          "name": "White cavalier",
+          "quantity": 0
+        },
+        {
+          "name": "Navy cavalier",
+          "quantity": 0
+        },
+        {
+          "name": "Tan cavalier",
+          "quantity": 0
+        },
+        {
+          "name": "Dark cavalier",
+          "quantity": 0
+        },
+        {
+          "name": "Black cavalier",
+          "quantity": 0
+        },
+        {
+          "name": "Pith helmet",
+          "quantity": 0
+        },
+        {
+          "name": "Explorer backpack",
+          "quantity": 0
+        },
+        {
+          "name": "Green dragon mask",
+          "quantity": 0
+        },
+        {
+          "name": "Blue dragon mask",
+          "quantity": 0
+        },
+        {
+          "name": "Red dragon mask",
+          "quantity": 0
+        },
+        {
+          "name": "Black dragon mask",
+          "quantity": 0
+        },
+        {
+          "name": "Nunchaku",
+          "quantity": 0
+        },
+        {
+          "name": "Dual sai",
+          "quantity": 0
+        },
+        {
+          "name": "Rune cane",
+          "quantity": 0
+        },
+        {
+          "name": "Thieving bag",
+          "quantity": 0
+        },
+        {
+          "name": "Dragon boots ornament kit",
+          "quantity": 0
+        },
+        {
+          "name": "Rune defender ornament kit",
+          "quantity": 0
+        },
+        {
+          "name": "Berserker necklace ornament kit",
+          "quantity": 0
+        },
+        {
+          "name": "Tzhaar-ket-om ornament kit",
+          "quantity": 0
+        },
+        {
+          "name": "Amulet of glory (t4)",
+          "quantity": 0
+        },
+        {
+          "name": "Magic comp bow",
+          "quantity": 0
+        }
+      ]
+    },
+    {
+      "tier": "elite",
+      "casketsOpened": 0,
+      "uniques": []
+    },
+    {
+      "tier": "master",
+      "casketsOpened": 0,
+      "uniques": []
+    },
+    {
+      "tier": "shared",
+      "casketsOpened": 0,
+      "uniques": [{
+        "name": "Purple sweets",
+        "quantity": 0
+      },
+        {
+          "name": "Red firelighter",
+          "quantity": 0
+        },
+        {
+          "name": "Green firelighter",
+          "quantity": 0
+        },
+        {
+          "name": "Blue firelighter",
+          "quantity": 0
+        },
+        {
+          "name": "Purple firelighter",
+          "quantity": 0
+        },
+        {
+          "name": "White firelighter",
+          "quantity": 0
+        },
+        {
+          "name": "Charge dragonstone jewellery scroll",
+          "quantity": 0
+        },
+        {
+          "name": "Nardah teleport",
+          "quantity": 0
+        },
+        {
+          "name": "Mos le'harmless teleport",
+          "quantity": 0
+        },
+        {
+          "name": "Mort'ton teleport",
+          "quantity": 0
+        },
+        {
+          "name": "Feldip hills teleport",
+          "quantity": 0
+        },
+        {
+          "name": "Lunar isle teleport",
+          "quantity": 0
+        },
+        {
+          "name": "Digsite teleport",
+          "quantity": 0
+        },
+        {
+          "name": "Piscatoris teleport",
+          "quantity": 0
+        },
+        {
+          "name": "Pest control teleport",
+          "quantity": 0
+        },
+        {
+          "name": "Tai bwo wannai teleport",
+          "quantity": 0
+        },
+        {
+          "name": "Lumberyard teleport",
+          "quantity": 0
+        },
+        {
+          "name": "Iorwerth camp teleport",
+          "quantity": 0
+        },
+        {
+          "name": "Master scroll book",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin page 1",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin page 2",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin page 3",
+          "quantity": 0
+        },
+        {
+          "name": "Saradomin page 4",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak page 1",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak page 2",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak page 3",
+          "quantity": 0
+        },
+        {
+          "name": "Zamorak page 4",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix page 1",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix page 2",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix page 3",
+          "quantity": 0
+        },
+        {
+          "name": "Guthix page 4",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos page 1",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos page 2",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos page 3",
+          "quantity": 0
+        },
+        {
+          "name": "Bandos page 4",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl page 1",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl page 2",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl page 3",
+          "quantity": 0
+        },
+        {
+          "name": "Armadyl page 4",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient page 1",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient page 2",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient page 3",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient page 4",
+          "quantity": 0
+        },
+        {
+          "name": "Holy blessing",
+          "quantity": 0
+        },
+        {
+          "name": "Unholy blessing",
+          "quantity": 0
+        },
+        {
+          "name": "Peaceful blessing",
+          "quantity": 0
+        },
+        {
+          "name": "War blessing",
+          "quantity": 0
+        },
+        {
+          "name": "Honourable blessing",
+          "quantity": 0
+        },
+        {
+          "name": "Ancient blessing",
+          "quantity": 0
+        }
+      ]
+    }
+  ],
+  "totalLoot": [{
+    "name": "Coins",
+    "quantity": 1500000
+  }],
+  "longPressedOpenAmount": 1,
+  "longPressedOpenAmountUnlocked": 1,
+  "rewardCasketMultiplier": 1
+}
